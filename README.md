@@ -24,3 +24,4 @@ An interactive Power BI dashboard designed to analyze employee attrition and ide
 ## 📌 Dashboard
 
 The dashboard provides an interactive view of employee attrition with filters and KPIs to explore the data from different perspectives.
+![HR Employee Attrition Dashboard](Screenshot%202026-09-07%20190101.png)
